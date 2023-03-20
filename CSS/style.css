@@ -1,0 +1,28 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: green;
+}
+
+p{
+    color: blue;
+}
+
+.bg-hitam{
+    background-color: black;
+}
+
+.bg-biru{
+    background-color: blue;
+}
+
+#margin{
+    margin: 20px;
+}
+
+#padding{
+    padding: 20px;
+}
+
